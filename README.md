@@ -2,7 +2,7 @@
 
 ### Flylist (Backend Server) 🎉
 
-I decided to make free time project using Spotify API to see the playlist of a user on Spotify.
+I decided to make free time project using Spotify API to see the playlists of a user on Spotify.
 
 <hr></hr>
 
