@@ -6,6 +6,8 @@ I decided to make free time project using Spotify API to see the playlist of a u
 
 <hr></hr>
 
+✔️ React
+
 ✔️ Node.js with Express
 
 ✔️ Spotify OAuth for authentication.
