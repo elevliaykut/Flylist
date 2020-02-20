@@ -17,3 +17,11 @@ I decided to make free time project using Spotify API to see the playlist of a u
 🎉 You can see frontend server via https://github.com/elevliaykut/FlylList
 
 <hr></hr>
+
+<img src="./src/assets/images/Authentication.png" width="45%" height="400"/>
+
+<hr></hr>
+
+<img src="./src/assets/images/playlist.png" width="95%" height="395"/>
+
+<hr></hr>
