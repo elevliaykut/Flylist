@@ -18,10 +18,14 @@ I decided to make free time project using Spotify API to see the playlists of a 
 
 <hr></hr>
 
-<img src="./src/assets/images/Authentication.png" width="45%" height="400"/>
+<p align="center">
+  <img src="./src/assets/images/Authentication.png" width="45%" height="400"/>
+</p>
 
 <hr></hr>
 
-<img src="./src/assets/images/playlist.png" width="95%" height="395"/>
+<p align="center">
+  <img src="./src/assets/images/playlist.png" width="95%" height="395"/>
+</p>
 
 <hr></hr>
